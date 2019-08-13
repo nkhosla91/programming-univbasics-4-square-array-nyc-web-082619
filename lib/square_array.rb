@@ -1,3 +1,3 @@
 def square_array(array)
-  # your c
+  Math.square_array(array)
 end
