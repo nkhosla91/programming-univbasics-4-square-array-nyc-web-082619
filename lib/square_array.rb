@@ -1,3 +1,3 @@
 def square_array(array)
-  Ma
+  counter = 0
 end
